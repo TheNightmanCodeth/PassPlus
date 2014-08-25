@@ -1,0 +1,63 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.diragi.passplus.passGen">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Generate"
+        android:id="@+id/button"
+        android:clickable="true"
+        android:onClick="genPass"
+        android:layout_below="@+id/genPass"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/genPass"
+        android:hint="Password"
+        android:paddingTop="30dp"
+        android:layout_below="@+id/titleText"
+        android:layout_alignParentStart="true"
+        android:layout_alignEnd="@+id/button" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Password Generator"
+        android:id="@+id/backupQuestTextView"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="48dp" />
+
+    <EditText
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/titleText"
+        android:hint="Length"
+        android:layout_marginTop="70dp"
+        android:layout_below="@+id/backupQuestTextView"
+        android:layout_alignParentStart="true"
+         />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Include Symbols"
+        android:id="@+id/checkBox"
+        android:layout_alignBottom="@+id/titleText"
+        android:layout_alignEnd="@+id/backupQuestTextView" />
+
+
+</RelativeLayout>

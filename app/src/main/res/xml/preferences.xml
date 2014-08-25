@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+<PreferenceCategory
+    android:title="General"
+    android:key="general">
+    <Preference
+        android:key="pref_forgotPass"
+        android:title="Forgot Password"
+        android:summary="Click here to answer your backup question and recover your password.">
+        <intent android:action=".forgot"/>
+    </Preference>
+
+
+
+
+
+    <Preference
+
+        android:key="pref_themeColor"
+        android:title="Pick a theme"
+        android:summary="Choose a new theme. The current theme is: 'Default'"/>
+
+
+
+</PreferenceCategory>
+
+
+</PreferenceScreen>

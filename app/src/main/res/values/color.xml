@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#ff770100</color>
+    <color name="windowBackground">#212121</color>
+    <color name="primaryDark">#ff590002</color>
+    <color name="textPrimary">#ffffffff</color>
+    <color name="primaryBlue">#ff292a7b</color>
+    <color name="primaryBlueDark">#ff292a5d</color>
+
+    <!--Stock themes-->
+    <color name="def">#ff1C77B4</color>
+    <color name="red">#ff8b0407</color>
+    <color name="blk">#ff232323</color>
+    <color name="cya">#ff00a3a9</color>
+    <color name="grn">#ff20ff00</color>
+    <color name="grnbg">#be20ff00</color>
+    <color name="drkblu">#ff010077</color>
+    <color name="drkgrn">#ff067700</color>
+    <color name="litered">#ffc12900</color>
+    <color name="mat">#ff42545e</color>
+    <color name="pnk">#ffd600d2</color>
+    <color name="tel">#ff008677</color>
+    <color name="yel">#ffb7b700</color>
+
+    <!--Pro themes-->
+    <color name="lightgray">#ff717475</color>
+    <color name="lightgraybg">#be717475</color>
+    <color name="purp">#ff3b005a</color>
+    <color name="purpbg">#be3b005a</color>
+    <color name="holo">#ff33b5e5</color>
+    <color name="holobg">#be33b5e5</color>
+    <color name="holodark">#ff0099cc</color>
+    <color name="holodarkbg">#be0099cc</color>
+    <color name="holobrite">#ff00ddff</color>
+    <color name="holobritebg">#be00ddff</color>
+    <color name="googblu">#ff4585F3</color>
+    <color name="googblubg">#be4585f3</color>
+    <color name="googyel">#FFB304</color>
+    <color name="googyelbg">#beffb304</color>
+    <color name="googred">#D8442E</color>
+    <color name="googredbg">#bed8442e</color>
+    <color name="googgrn">#009654</color>
+    <color name="googgrnbg">#be009654</color>
+    <color name="weirdgrn">#ff657b69</color>
+    <color name="weirdgrnbg">#be657b69</color>
+    <color name="brightyel">#fffcff00</color>
+    <color name="brightyelbg">#befcff00</color>
+    <color name="lightpurp">#ff8700ff</color>
+    <color name="lightpurpbg">#be8700ff</color>
+    <color name="ornglite">#ffde8037</color>
+    <color name="ornglitebg">#bede8037</color>
+    <color name="salmon">#ffff566e</color>
+    <color name="salmonbg">#beff566e</color>
+    <color name="kindapurple">#ff5504ca</color>
+    <color name="kindapurplebg">#be5504ca</color>
+    <color name="orng">#ffff7100</color>
+    <color name="orngbg">#beff7100</color>
+
+    <color name="ugh">#bee3e400</color>
+
+
+
+
+
+</resources>

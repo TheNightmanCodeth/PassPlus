@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/Joe/Desktop/Projects/Pass+ copy 2/app/build/intermediates/pre-dexed/debug/commons-lang3-3.3.2-0b842b02db42f488dae8fa7a19ecf01bc6ec7a84.jar"
+        jar="/Users/Joe/Desktop/Projects/Pass+ copy 2/app/libs/commons-lang3-3.3.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="659861b4acde07a0527211e40d256119face1d15"/>
+    <item
+        dex="/Users/Joe/Desktop/Projects/Pass+ copy 2/app/build/intermediates/pre-dexed/debug/classes-d4edd8b0f6b3873f8b345ba854055438e6a8c70e.jar"
+        jar="/Users/Joe/Desktop/Projects/Pass+ copy 2/app/build/intermediates/exploded-aar/com.github.johnkil.android-robototextview/robototextview/2.1.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f4c3fa9224fa85778778adf5c02d131e301925e9"/>
+    <item
+        dex="/Users/Joe/Desktop/Projects/Pass+ copy 2/app/build/intermediates/pre-dexed/debug/classes-2fc4538ef6f05ef0bf956a5d3a5ba6333eb6a5a6.jar"
+        jar="/Users/Joe/Desktop/Projects/Pass+ copy 2/app/build/intermediates/exploded-aar/com.hannesdorfmann/swipeback/1.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="185ef042f73e19c4525cb8d850774d514dfdfe75"/>
+    <item
+        dex="/Users/Joe/AndroidStudioProjects/Pass+ copy/app/build/intermediates/pre-dexed/debug/classes-837c1e9f191cda57208548b03fee58ad99ea4f73.jar"
+        jar="/Users/Joe/AndroidStudioProjects/Pass+ copy/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/Users/Joe/AndroidStudioProjects/Pass+/app/build/intermediates/pre-dexed/release/classes-f166ac8a324aa5cfc546ce16d2ad4f681b9e9d9c.jar"
+        jar="/Users/Joe/AndroidStudioProjects/Pass+/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0-rc1/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="14d500eeb7128db6c0f9b55f166c42eacf00f3b6"/>
+    <item
+        dex="/Users/Joe/Desktop/Projects/Pass+ copy/app/build/intermediates/pre-dexed/release/classes-e5e84f4f4cc9ad1ab3c8decaf827ab8f76551863.jar"
+        jar="/Users/Joe/Desktop/Projects/Pass+ copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.89/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d71573c9c5ea98a8db47ad6ff993a63d492b3bfa"/>
+    <item
+        dex="/Users/Joe/AndroidStudioProjects/Pass+/app/build/intermediates/pre-dexed/release/classes-fd5cc2511df6c98aef49ffbaad6d03a6ec4a7bea.jar"
+        jar="/Users/Joe/AndroidStudioProjects/Pass+/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.0-rc1/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="25c58e61f70a3d78e5c5abcfc9db0555fc869b7d"/>
+    <item
+        dex="/Users/Joe/AndroidStudioProjects/Pass+ copy/app/build/intermediates/pre-dexed/debug/classes-396b7e74757108319447744e77a4d2e4aadbf9ff.jar"
+        jar="/Users/Joe/AndroidStudioProjects/Pass+ copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.77/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b6a82434c1eca686607867cd906bcc80ed987837"/>
+    <item
+        dex="/Users/Joe/Desktop/Projects/Pass+ copy 2/app/build/intermediates/pre-dexed/debug/classes-363280355da94a9414df9a3efbe5042e03d06fe9.jar"
+        jar="/Users/Joe/Desktop/Projects/Pass+ copy 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.89/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d71573c9c5ea98a8db47ad6ff993a63d492b3bfa"/>
+    <item
+        dex="/Users/Joe/Desktop/Projects/Pass+ copy/app/build/intermediates/pre-dexed/release/classes-4003272109249c0de2de8791229c8b3e23f8a923.jar"
+        jar="/Users/Joe/Desktop/Projects/Pass+ copy/app/build/intermediates/exploded-aar/com.hannesdorfmann/swipeback/1.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="185ef042f73e19c4525cb8d850774d514dfdfe75"/>
+    <item
+        dex="/Users/Joe/Desktop/Projects/Pass+ copy/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-312f5e399077fa783a02d9888aad930b0320c2fc.jar"
+        jar="/Users/Joe/Desktop/Projects/Pass+ copy/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/Users/Joe/AndroidStudioProjects/Pass+ copy/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-8319fc7da54df0c7f0557c24896d498a769ed7bf.jar"
+        jar="/Users/Joe/AndroidStudioProjects/Pass+ copy/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/Users/Joe/Desktop/Projects/Pass+ copy/app/build/intermediates/pre-dexed/debug/classes-805287ac05a8dafd5ab60432e9246d86668ce565.jar"
+        jar="/Users/Joe/Desktop/Projects/Pass+ copy/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/Users/Joe/AndroidStudioProjects/Pass+/app/build/intermediates/pre-dexed/debug/commons-lang3-3.3.2-93a07f7920d265d26c1f9212defcd3286cf95056.jar"
+        jar="/Users/Joe/AndroidStudioProjects/Pass+/app/libs/commons-lang3-3.3.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="659861b4acde07a0527211e40d256119face1d15"/>
+    <item
+        dex="/Users/Joe/Desktop/Projects/Pass+ copy 2/app/build/intermediates/pre-dexed/debug/classes-455edbc8585a6fd8d9dbfb003bc5ba9eb3ef3d42.jar"
+        jar="/Users/Joe/Desktop/Projects/Pass+ copy 2/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/Users/Joe/Desktop/Projects/Pass+ copy/app/build/intermediates/pre-dexed/debug/commons-lang3-3.3.2-b7feadd83f2412e259559be07923291335022980.jar"
+        jar="/Users/Joe/Desktop/Projects/Pass+ copy/app/libs/commons-lang3-3.3.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="659861b4acde07a0527211e40d256119face1d15"/>
+    <item
+        dex="/Users/Joe/Desktop/Projects/Pass+ copy/app/build/intermediates/pre-dexed/debug/classes-d9a91d53b78c0698a2719bbf8ebf3cd471dd9046.jar"
+        jar="/Users/Joe/Desktop/Projects/Pass+ copy/app/build/intermediates/exploded-aar/com.github.johnkil.android-robototextview/robototextview/2.1.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f4c3fa9224fa85778778adf5c02d131e301925e9"/>
+    <item
+        dex="/Users/Joe/AndroidStudioProjects/Pass+/app/build/intermediates/pre-dexed/release/classes-cdc16d12f22fe86b951d98e852a0ec6a39cbbae5.jar"
+        jar="/Users/Joe/AndroidStudioProjects/Pass+/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.77/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b6a82434c1eca686607867cd906bcc80ed987837"/>
+    <item
+        dex="/Users/Joe/AndroidStudioProjects/Pass+ copy/app/build/intermediates/pre-dexed/debug/commons-lang3-3.3.2-7b8e03860afe22bbc4423d6c3b5444d06077c17d.jar"
+        jar="/Users/Joe/AndroidStudioProjects/Pass+ copy/app/libs/commons-lang3-3.3.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="659861b4acde07a0527211e40d256119face1d15"/>
+    <item
+        dex="/Users/Joe/AndroidStudioProjects/Pass+ copy/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-bca9cd8c8082330ef7549e0398af852faae531fd.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/Users/Joe/AndroidStudioProjects/Pass+/app/build/intermediates/pre-dexed/release/internal_impl-21.0.0-rc1-d0af6b5352babeefdaf929118f07603dbcde29ec.jar"
+        jar="/Users/Joe/AndroidStudioProjects/Pass+/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0-rc1/libs/internal_impl-21.0.0-rc1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d1a625e8a94bf7c73e0f9d30ad1b483ff6ea64e9"/>
+    <item
+        dex="/Users/Joe/AndroidStudioProjects/Pass+/app/build/intermediates/pre-dexed/release/classes-60f3a639f7ff2e368c293cbbd94363e94f22648c.jar"
+        jar="/Users/Joe/AndroidStudioProjects/Pass+/app/build/intermediates/exploded-aar/com.github.johnkil.android-robototextview/robototextview/2.1.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f4c3fa9224fa85778778adf5c02d131e301925e9"/>
+    <item
+        dex="/Users/Joe/AndroidStudioProjects/Pass+/app/build/intermediates/pre-dexed/release/classes-799c51d86c7f63a6dfc76c42cbc11ba68e660a0e.jar"
+        jar="/Users/Joe/AndroidStudioProjects/Pass+/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0-rc1/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="7ae84435ebc95f67a3f5e511025e96caa8688da2"/>
+    <item
+        dex="/Users/Joe/Desktop/Projects/Pass+ copy 2/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-80ba6cd69af3436bc1f9ccadeb5cd520f5200b6e.jar"
+        jar="/Users/Joe/Desktop/Projects/Pass+ copy 2/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/Users/Joe/AndroidStudioProjects/Pass+ copy/app/build/intermediates/pre-dexed/debug/classes-32f38de56023d2589235eef56a530732904c1dd6.jar"
+        jar="/Users/Joe/AndroidStudioProjects/Pass+ copy/app/build/intermediates/exploded-aar/com.github.johnkil.android-robototextview/robototextview/2.1.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f4c3fa9224fa85778778adf5c02d131e301925e9"/>
+    <item
+        dex="/Users/Joe/AndroidStudioProjects/Pass+/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-rc1-9da56907a54bc62b80b021d0066dc3e5625c73ba.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0-rc1/support-annotations-21.0.0-rc1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="57c343f05b73b923bf2502b05851dbfe12193dcb"/>
+
+</pre-dex-items>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pass+</string>
+    <string name="action_settings">Password Generator</string>
+    <string name="action_settings_main">Settings</string>
+    <string name="title_activity_main">Pass+</string>
+
+    <!-- nav drawer menu items -->
+    <string-array name="drawerArray">
+        <item>Passwords</item>
+        <item>Add Password</item>
+        <item>Password Generator</item>
+        <item>Settings</item>
+        <item>Upgrade</item>
+        <item>About</item>
+    </string-array>
+
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="title_activity_pass_gen">Password Generator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_password">password</string>
+    <string name="title_activity_add">add</string>
+    <string name="title_activity_settingsOld">Settings</string>
+    <string name="title_activity_upgr8">Upgrade</string>
+    <string name="title_activity_backup">Backup</string>
+    <string name="title_activity_about">About</string>
+    <string name="title_activity_lock">Pass+</string>
+    <string name="base64PublicKey">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0oRoFhR2LHcCytibihjoBRkLTyszb4AGQtJWghTBXcW6Q8CPK4J5JtdjZFP98tLftrTJpzzEy1wxlsnZU6NXr3Sedy4/OtBn3CT3Llj7JsbsQjgoG+jJhkDPSMMKkeCMBCxOK2rqaIvjaHduXDqpr+n1BbRxj8prnqK8oJqV54jdENYPVgLikkZYnkOSqQ7ZZFsSEcz4jl/+WMSDI1M8Er52sXZ/vsVXhl0koTZmyULghoxfYYNj3lSvUTvp7UbupWDcWQzI0Rh1rahc4OFfvk7Cg4yvAxFBH6bFaxhl64WSx/sBBJGxiTEj5K5kESpm16k0OpMAiR7tqvwTRUPrQQIDAQAB</string>
+    <string name="title_activity_pass_view">passView</string>
+    <string name="title_activity_forgot">forgot</string>
+    <string name="title_activity_change_pass">changePass</string>
+    <string name="title_activity_reset">reset</string>
+
+</resources>

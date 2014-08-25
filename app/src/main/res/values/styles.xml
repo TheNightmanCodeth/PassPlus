@@ -1,0 +1,440 @@
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/actionBar</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/defbg</item>
+    </style>
+
+    <style name="actionBar"
+        parent="@android:style/Widget.Holo.Light.ActionBar">
+
+        <item name="android:background">#ff1C77B4</item>
+        <item name="android:titleTextStyle">@style/titleText</item>
+
+    </style>
+
+    <style name="titleText"
+        parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+
+        <item name="android:textColor">#ff000000</item>
+
+    </style>
+
+    <style name="AppThemeRed" parent="android:Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/actionBarRed</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/redbg</item>
+    </style>
+
+    <style name="actionBarRed"
+        parent="@android:style/Widget.Holo.Light.ActionBar">
+
+        <item name="android:background">#ff8b0407</item>
+        <item name="android:titleTextStyle">@style/titleTextRed</item>
+
+    </style>
+
+    <style name="titleTextRed"
+        parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+
+        <item name="android:textColor">#ffffffff</item>
+
+    </style>
+
+    <style name="AppThemeBlack" parent="android:Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/actionBarBlack</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/blackbg</item>
+    </style>
+
+    <style name="actionBarBlack"
+        parent="@android:style/Widget.Holo.Light.ActionBar">
+
+        <item name="android:background">#ff232323</item>
+        <item name="android:titleTextStyle">@style/titleTextBlack</item>
+
+    </style>
+
+    <style name="titleTextBlack"
+        parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+
+        <item name="android:textColor">#ffffffff</item>
+
+    </style>
+
+    <style name="AppThemeGreen" parent="android:Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/actionBarGreen</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/greenbg</item>
+    </style>
+
+    <style name="actionBarGreen"
+        parent="@android:style/Widget.Holo.Light.ActionBar">
+
+        <item name="android:background">#ff20ff00</item>
+        <item name="android:titleTextStyle">@style/titleTextGreen</item>
+
+    </style>
+
+    <style name="titleTextGreen"
+        parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+
+        <item name="android:textColor">#ffffffff</item>
+
+    </style>
+
+    <style name="AppThemeCyan" parent="android:Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/actionBarCyan</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/cyanbg</item>
+    </style>
+
+    <style name="actionBarCyan"
+        parent="@android:style/Widget.Holo.Light.ActionBar">
+
+        <item name="android:background">#ff00a3a9</item>
+        <item name="android:titleTextStyle">@style/titleTextCyan</item>
+
+    </style>
+
+    <style name="titleTextCyan"
+        parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+
+        <item name="android:textColor">#ffffffff</item>
+
+    </style>
+
+    <style name="AppThemeDarkGrn" parent="android:Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/actionBarDarkGrn</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/drkgrnbg</item>
+    </style>
+
+    <style name="actionBarDarkGrn"
+        parent="@android:style/Widget.Holo.Light.ActionBar">
+
+        <item name="android:background">#ff067700</item>
+        <item name="android:titleTextStyle">@style/titleTextCyan</item>
+
+    </style>
+
+    <style name="AppThemeDarkBlu" parent="android:Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/actionBarDarkBlu</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/drkblubg</item>
+    </style>
+
+    <style name="actionBarDarkBlu"
+        parent="@android:style/Widget.Holo.Light.ActionBar">
+
+        <item name="android:background">#ff010077</item>
+        <item name="android:titleTextStyle">@style/titleTextCyan</item>
+
+    </style>
+
+    <style name="AppThemePnk" parent="android:Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/actionBarDarkPnk</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/pnkbg</item>
+    </style>
+
+    <style name="actionBarDarkPnk"
+        parent="@android:style/Widget.Holo.Light.ActionBar">
+
+        <item name="android:background">#ffd600d2</item>
+        <item name="android:titleTextStyle">@style/titleTextCyan</item>
+
+    </style>
+
+    <style name="AppThemeTeal" parent="android:Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/actionBarDarkTeal</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/telbg</item>
+    </style>
+
+    <style name="actionBarDarkTeal"
+        parent="@android:style/Widget.Holo.Light.ActionBar">
+
+        <item name="android:background">#ff008677</item>
+        <item name="android:titleTextStyle">@style/titleTextCyan</item>
+
+    </style>
+
+    <style name="AppThemeYel" parent="android:Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/actionBarDarkYel</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/yelbg</item>
+    </style>
+
+    <style name="actionBarDarkYel"
+        parent="@android:style/Widget.Holo.Light.ActionBar">
+
+        <item name="android:background">#ffb7b700</item>
+        <item name="android:titleTextStyle">@style/titleTextCyan</item>
+
+    </style>
+
+    <style name="AppThemeRedLite" parent="android:Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/actionBarRedLite</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/literedbg</item>
+    </style>
+
+    <style name="actionBarRedLite"
+        parent="@android:style/Widget.Holo.Light.ActionBar">
+
+        <item name="android:background">#ffc12900</item>
+        <item name="android:titleTextStyle">@style/titleTextCyan</item>
+
+    </style>
+
+    <style name="AppThemeMatGray" parent="android:Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/actionBarMatGray</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/matbg</item>
+    </style>
+
+    <style name="actionBarMatGray"
+        parent="@android:style/Widget.Holo.Light.ActionBar">
+
+        <item name="android:background">#ff42545e</item>
+        <item name="android:titleTextStyle">@style/titleTextCyan</item>
+
+    </style>
+
+    <style name="AppThemeLiteGray" parent="android:Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/actionBarLiteGray</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/lgbg</item>
+    </style>
+
+    <style name="actionBarLiteGray"
+        parent="@android:style/Widget.Holo.Light.ActionBar">
+
+        <item name="android:background">@color/lightgray</item>
+        <item name="android:titleTextStyle">@style/titleTextCyan</item>
+
+    </style>
+
+    <style name="AppThemePurp" parent="android:Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/actionBarPurp</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/purpbg</item>
+    </style>
+
+    <style name="actionBarPurp"
+        parent="@android:style/Widget.Holo.Light.ActionBar">
+
+        <item name="android:background">@color/purp</item>
+        <item name="android:titleTextStyle">@style/titleTextCyan</item>
+
+    </style>
+
+    <style name="AppThemeholo" parent="android:Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/actionBarholo</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/holobg</item>
+    </style>
+
+    <style name="actionBarholo"
+        parent="@android:style/Widget.Holo.Light.ActionBar">
+
+        <item name="android:background">@color/holo</item>
+        <item name="android:titleTextStyle">@style/titleTextCyan</item>
+
+    </style>
+
+    <style name="AppThemeholodark" parent="android:Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/actionBarholodark</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/holodarkbg</item>
+    </style>
+
+    <style name="actionBarholodark"
+        parent="@android:style/Widget.Holo.Light.ActionBar">
+
+        <item name="android:background">@color/holodark</item>
+        <item name="android:titleTextStyle">@style/titleTextCyan</item>
+
+    </style>
+
+    <style name="AppThemeholobrite" parent="android:Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/actionBarholobrite</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/holobritebg</item>
+    </style>
+
+    <style name="actionBarholobrite"
+        parent="@android:style/Widget.Holo.Light.ActionBar">
+
+        <item name="android:background">@color/holobrite</item>
+        <item name="android:titleTextStyle">@style/titleTextCyan</item>
+
+    </style>
+
+    <style name="AppThemegoogblu" parent="android:Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/actionBargoogblu</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/googblubg</item>
+    </style>
+
+    <style name="actionBargoogblu"
+        parent="@android:style/Widget.Holo.Light.ActionBar">
+
+        <item name="android:background">@color/googblu</item>
+        <item name="android:titleTextStyle">@style/titleTextCyan</item>
+
+    </style>
+
+    <style name="AppThemegoogyel" parent="android:Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/actionBargoogyel</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/googyelbg</item>
+    </style>
+
+    <style name="actionBargoogyel"
+        parent="@android:style/Widget.Holo.Light.ActionBar">
+
+        <item name="android:background">@color/googyel</item>
+        <item name="android:titleTextStyle">@style/titleTextCyan</item>
+
+    </style>
+
+    <style name="AppThemegoogred" parent="android:Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/actionBargoogred</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/googredbg</item>
+    </style>
+
+    <style name="actionBargoogred"
+        parent="@android:style/Widget.Holo.Light.ActionBar">
+
+        <item name="android:background">@color/googred</item>
+        <item name="android:titleTextStyle">@style/titleTextCyan</item>
+
+    </style>
+
+    <style name="AppThemegooggrn" parent="android:Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/actionBargooggrn</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/googgrnbg</item>
+    </style>
+
+    <style name="actionBargooggrn"
+        parent="@android:style/Widget.Holo.Light.ActionBar">
+
+        <item name="android:background">@color/googgrn</item>
+        <item name="android:titleTextStyle">@style/titleTextCyan</item>
+
+    </style>
+
+    <style name="AppThemeweirdgrn" parent="android:Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/actionBarweirdgrn</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/weirdgrnbg</item>
+    </style>
+
+    <style name="actionBarweirdgrn"
+        parent="@android:style/Widget.Holo.Light.ActionBar">
+
+        <item name="android:background">@color/weirdgrn</item>
+        <item name="android:titleTextStyle">@style/titleTextCyan</item>
+
+    </style>
+
+    <style name="AppThemebrightyel" parent="android:Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/actionBarbrightyel</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:textColor">#FF000000</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/brightyelbg</item>
+    </style>
+
+    <style name="actionBarbrightyel"
+        parent="@android:style/Widget.Holo.Light.ActionBar">
+
+        <item name="android:background">@color/brightyel</item>
+        <item name="android:titleTextStyle">@style/titleTextYel</item>
+
+    </style>
+
+    <style name="AppThemelightpurp" parent="android:Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/actionBarlightpurp</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/lightpurpbg</item>
+    </style>
+
+    <style name="titleTextYel"
+        parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+
+        <item name="android:textColor">#ff000000</item>
+
+    </style>
+
+    <style name="actionBarlightpurp"
+        parent="@android:style/Widget.Holo.Light.ActionBar">
+
+        <item name="android:background">@color/lightpurp</item>
+        <item name="android:titleTextStyle">@style/titleTextCyan</item>
+
+    </style>
+
+    <style name="AppThemeornglite" parent="android:Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/actionBaorngliter</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/ornglitebg</item>
+    </style>
+
+    <style name="actionBaorngliter" parent="@android:style/Widget.Holo.Light.ActionBar">
+
+        <item name="android:background">@color/ornglite</item>
+        <item name="android:titleTextStyle">@style/titleTextCyan</item>
+
+    </style>
+    <style name="AppThemesalmon" parent="android:Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/actionBarsalmon</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/salmonbg</item>
+    </style>
+
+    <style name="actionBarsalmon"
+        parent="@android:style/Widget.Holo.Light.ActionBar">
+
+        <item name="android:background">@color/salmon</item>
+        <item name="android:titleTextStyle">@style/titleTextCyan</item>
+
+    </style>
+
+    <style name="AppThemekindapurple" parent="android:Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/actionBarkindapurple</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/kindapurplebg</item>
+    </style>
+
+    <style name="actionBarkindapurple"
+        parent="@android:style/Widget.Holo.Light.ActionBar">
+
+        <item name="android:background">@color/kindapurple</item>
+        <item name="android:titleTextStyle">@style/titleTextCyan</item>
+
+    </style>
+
+    <style name="AppThemeorng" parent="android:Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/actionBarorng</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/orngbg</item>
+    </style>
+
+    <style name="actionBarorng"
+        parent="@android:style/Widget.Holo.Light.ActionBar">
+
+        <item name="android:background">@color/orng</item>
+        <item name="android:titleTextStyle">@style/titleTextCyan</item>
+
+    </style>
+
+
+
+
+
+</resources>

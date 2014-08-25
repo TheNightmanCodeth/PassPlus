@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+                android:title="About"
+                android:key="about">
+
+            <Preference
+                android:title="Version"
+                android:summary="1.6"
+                android:key="version"/>
+
+            <Preference
+                android:title="Author"
+                android:summary="Joe Diragi"
+                android:key="author"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

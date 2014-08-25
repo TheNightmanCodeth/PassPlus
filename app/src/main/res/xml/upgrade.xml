@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="Upgrade"
+        android:key="upgrade">
+
+        <Preference
+            android:title="Upgrade to pro"
+            android:summary="Remove ads from pass+"
+            android:key="upgradeItem"/>
+
+        </PreferenceCategory>
+
+</PreferenceScreen>

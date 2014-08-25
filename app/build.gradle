@@ -1,0 +1,41 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 20
+    buildToolsVersion "20.0.0"
+
+    defaultConfig {
+        applicationId "com.diragi.passplus"
+        minSdkVersion 14
+        targetSdkVersion 20
+        versionCode 203
+        versionName "1.61"
+    }
+    buildTypes {
+        release {
+            runProguard false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    sourceSets {
+        main {
+            aidl.srcDirs = ['src/main/aidl']
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    // You must install or update the Support Repository through the SDK manager to use this dependency.
+    // You must install or update the Support Repository through the SDK manager to use this dependency.
+    compile files('libs/commons-lang3-3.3.2.jar')
+    // SwipeBack library - https://github.com/sockeqwe/SwipeBack
+    compile 'com.hannesdorfmann:swipeback:1.0.0'
+
+    // You must install or update the Support Repository through the SDK manager to use this dependency.
+    // You must install or update the Support Repository through the SDK manager to use this dependency.
+    // You must install or update the Support Repository through the SDK manager to use this dependency.
+    compile 'com.android.support:support-v4:20.+'
+    compile 'com.github.johnkil.android-robototextview:robototextview:2.1.0'
+    compile 'com.google.android.gms:play-services:5.0.89'
+}
